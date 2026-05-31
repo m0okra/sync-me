@@ -1,0 +1,35 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 日志文件（保留空文件夹）
+logs/*
+!logs/.gitkeep
+*.log
+
+# 同步程序二进制文件（保留空文件夹）
+bin/*
+!bin/.gitkeep
+
+# 用户配置（含隐私信息）
+config.json
+
+# 图标缓存
+info.ico
+
+# IDE/编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+.venv/
+env/
+.env/
