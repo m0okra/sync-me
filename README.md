@@ -147,7 +147,3 @@ python main.py
 - `Pillow` - 图像处理（图标绘制）
 - `psutil` - 进程管理
 - `pywin32` - Windows API 调用
-
-## 许可证
-
-本项目仅供个人学习和使用。
